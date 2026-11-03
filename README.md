@@ -18,8 +18,7 @@ so the model can be retrained on the fly without editing code.
 
 ## Note on origin
 
-The project was **originally written in 2024 in Google Colab** as a Jupyter
-notebook (`27 (1).py`). It has since been refactored into a plain Python 3.12
+The project was **originally written in 17.05.26 in Google Colab**. It has since been refactored into a plain Python 3.12
 Streamlit application, ready to run locally in **Visual Studio Code**.
 
 ---
