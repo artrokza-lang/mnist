@@ -28,9 +28,14 @@ Streamlit application, ready to run locally in **Visual Studio Code**.
 
 - 📸 Screenshots: `0.jpg`, `1.jpg`, `2.jpg`
 
-| `0.jpg` | `1.jpg` | `2.jpg` |
-|---|---|---|
-| ![](0.jpg) | ![](1.jpg) | ![](2.jpg) |
+<p align="center">
+  <img src="0.jpg" width="600">
+</p>
+
+<p align="center">
+  <img src="1.jpg" width="400">
+  <img src="2.jpg" width="600">
+</p>
 
 ---
 
