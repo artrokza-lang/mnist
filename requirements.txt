@@ -1,0 +1,5 @@
+streamlit>=1.36
+tensorflow>=2.16       # TF 2.16+ — первая версия с поддержкой Python 3.12
+pillow>=10.3
+numpy>=1.26,<2.3
+pandas>=2.2
